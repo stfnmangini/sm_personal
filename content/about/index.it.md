@@ -41,8 +41,4 @@ Oltre alla vita accademia, sono un amante del turismo lento e della montagna. Mi
 
 Puoi trovare più informazioni nella pagina _Personale_.  
 
-
-
-<p align="center">
-  <img width="600" height="400" src="/images/climbing.jpeg">
-</p>  
+{{< figure src="/images/climbing.jpeg" title="Io mentre faccio sicura durante un'uscita ad arrampicare." width=500 >}}

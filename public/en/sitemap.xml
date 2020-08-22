@@ -2,103 +2,103 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://example.org/random/</loc><lastmod>2020-08-21T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://stefanomangini.com/random/</loc><lastmod>2020-08-21T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="it"
-                        href="http://example.org/it/random/"
+                        href="https://stefanomangini.com/it/random/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/random/"
+                    href="https://stefanomangini.com/random/"
                     /></url><url>
-            <loc>http://example.org/tags/blog/</loc><lastmod>2020-08-21T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://stefanomangini.com/tags/blog/</loc><lastmod>2020-08-21T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="it"
-                        href="http://example.org/it/tags/blog/"
+                        href="https://stefanomangini.com/it/tags/blog/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/tags/blog/"
+                    href="https://stefanomangini.com/tags/blog/"
                     /></url><url>
-            <loc>http://example.org/categories/</loc><lastmod>2020-08-21T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://stefanomangini.com/categories/</loc><lastmod>2020-08-21T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="it"
-                        href="http://example.org/it/categories/"
+                        href="https://stefanomangini.com/it/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/categories/"
+                    href="https://stefanomangini.com/categories/"
                     /></url><url>
-            <loc>http://example.org/tags/posts/</loc><lastmod>2020-08-21T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://stefanomangini.com/tags/posts/</loc><lastmod>2020-08-21T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="it"
-                        href="http://example.org/it/tags/posts/"
+                        href="https://stefanomangini.com/it/tags/posts/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/tags/posts/"
+                    href="https://stefanomangini.com/tags/posts/"
                     /></url><url>
-            <loc>http://example.org/posts/</loc><lastmod>2020-08-21T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://stefanomangini.com/posts/</loc><lastmod>2020-08-21T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="it"
-                        href="http://example.org/it/posts/"
+                        href="https://stefanomangini.com/it/posts/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/posts/"
+                    href="https://stefanomangini.com/posts/"
                     /></url><url>
-            <loc>http://example.org/categories/random/</loc><lastmod>2020-08-21T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://stefanomangini.com/categories/random/</loc><lastmod>2020-08-21T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="it"
-                        href="http://example.org/it/categories/random/"
+                        href="https://stefanomangini.com/it/categories/random/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/categories/random/"
+                    href="https://stefanomangini.com/categories/random/"
                     /></url><url>
-            <loc>http://example.org/</loc><lastmod>2020-08-21T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://stefanomangini.com/</loc><lastmod>2020-08-21T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="it"
-                        href="http://example.org/it/"
+                        href="https://stefanomangini.com/it/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/"
+                    href="https://stefanomangini.com/"
                     /></url><url>
-            <loc>http://example.org/tags/</loc><lastmod>2020-08-21T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://stefanomangini.com/tags/</loc><lastmod>2020-08-21T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="it"
-                        href="http://example.org/it/tags/"
+                        href="https://stefanomangini.com/it/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/tags/"
+                    href="https://stefanomangini.com/tags/"
                     /></url><url>
-            <loc>http://example.org/tags/welcome/</loc><lastmod>2020-08-21T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://example.org/about/</loc><lastmod>2020-08-16T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://stefanomangini.com/tags/welcome/</loc><lastmod>2020-08-21T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://stefanomangini.com/about/</loc><lastmod>2020-08-16T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="it"
-                        href="http://example.org/it/about/"
+                        href="https://stefanomangini.com/it/about/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/about/"
+                    href="https://stefanomangini.com/about/"
                     /></url><url>
-            <loc>http://example.org/research/</loc><lastmod>2020-08-16T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://stefanomangini.com/research/</loc><lastmod>2020-08-16T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="it"
-                        href="http://example.org/it/research/"
+                        href="https://stefanomangini.com/it/research/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/research/"
+                    href="https://stefanomangini.com/research/"
                     /></url><url>
-            <loc>http://example.org/personal/</loc><lastmod>2020-08-02T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>https://stefanomangini.com/personal/</loc><lastmod>2020-08-02T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
                         rel="alternate"
                         hreflang="it"
-                        href="http://example.org/it/personal/"
+                        href="https://stefanomangini.com/it/personal/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/personal/"
+                    href="https://stefanomangini.com/personal/"
                     /></url></urlset>

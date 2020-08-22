@@ -42,6 +42,4 @@ Apart for academic stuff, I am a slow travel lover and mountain enthusiast. I lo
 
 You can find more in the _Personal_ page.  
 
-<p align="center">
-  <img width="500" height="400" src="/images/climbing.jpeg">
-</p>  
+{{< figure src="/images/climbing.jpeg" title="Me belaying during a climbing day." width=500 >}}
