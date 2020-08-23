@@ -1,19 +1,2 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Stefano Mangini</title>
-        <link>https://stefanomangini.com/it/</link>
-        <description>Stefano Mangini&#39;s personal website</description>
-        <generator>Hugo -- gohugo.io</generator><language>it</language><managingEditor>mangini.stfn@gmail.com (Stefano Mangini)</managingEditor>
-            <webMaster>mangini.stfn@gmail.com (Stefano Mangini)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 21 Aug 2020 16:45:40 &#43;0800</lastBuildDate>
-            <atom:link href="https://stefanomangini.com/it/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>Benvenuto nel mio blog!</title>
-    <link>https://stefanomangini.com/it/random/</link>
-    <pubDate>Fri, 21 Aug 2020 16:45:40 &#43;0800</pubDate>
-    <author>Autore</author>
-    <guid>https://stefanomangini.com/it/random/</guid>
-    <description><![CDATA[Benvenuti nel mio blog! Qui cercherò di pubblicare articoli interessanti sulla mia ricerca, esperienze personali o fatti interessanti!
-Ci vediamo a brevess!
-$ c = \pm\sqrt{a^2 + b^2} $ and \( f(x)=\int_{-\infty}^{\infty} \hat{f}(\xi) e^{2 \pi i \xi x} d \xi \) $]]></description>
-</item></channel>
-</rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Stefano Mangini</title><link>https://stefanomangini.com/it/</link><description>Stefano Mangini's personal website</description><generator>Hugo -- gohugo.io</generator><language>it</language><managingEditor>mangini.stfn@gmail.com (Stefano Mangini)</managingEditor><webMaster>mangini.stfn@gmail.com (Stefano Mangini)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 21 Aug 2020 16:45:40 +0800</lastBuildDate><atom:link href="https://stefanomangini.com/it/index.xml" rel="self" type="application/rss+xml"/><item><title>Benvenuto nel mio blog!</title><link>https://stefanomangini.com/it/random/</link><pubDate>Fri, 21 Aug 2020 16:45:40 +0800</pubDate><author>Autore</author><guid>https://stefanomangini.com/it/random/</guid><description>Benvenuti nel mio blog! Qui cercherò di pubblicare articoli interessanti sulla mia ricerca, esperienze personali o fatti interessanti!
+Ci vediamo a breve!</description></item></channel></rss>
