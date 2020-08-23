@@ -14,7 +14,7 @@ description: "Benvenuto nel mio blog"
 tags: ["Benvenuto", "Blog", "Posts"]
 categories: ["Random"]
 
-lightgallery: true
+lightgallery: false
 ---
 
 # Benvenuti nel mio blog!  

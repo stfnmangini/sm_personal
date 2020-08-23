@@ -113,15 +113,6 @@ theme = "LoveIt"
         title = ""
         weight = 3
 
-
-# Markup related configuration in Hugo
-#[markup]
-  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
-  #[markup.highlight]
-    # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
-    #noClasses = false
-
-
 [params]
   #  LoveIt theme version
   version = "0.2.X"
@@ -130,7 +121,7 @@ theme = "LoveIt"
   # site keywords
   keywords = ["Quantum Computing", "Quantum", "Machine Learning", "Quantum Machine Learning", "Quantum Information"]
   # site default theme ("light", "dark", "auto")
-  defaultTheme = "auto"
+  defaultTheme = "light"
   # public git repo url only then enableGitInfo is true
   gitRepo = ""
   #  which hash function used for SRI, when empty, no SRI is used
@@ -253,7 +244,7 @@ theme = "LoveIt"
       # whether to show social links
       social = true
       #  disclaimer (HTML format is supported)
-      disclaimer = "Quantum Computing <i class='fas fa-atom'></i> Machine Learning <i class='fas fa-robot'></i> Computation <i class='fas fa-laptop-code'></i> "
+      disclaimer = "Quantum Computing | Machine Learning | Computation "
     # Home page posts
     [params.home.posts]
       enable = false
@@ -347,7 +338,7 @@ theme = "LoveIt"
     #  whether to enable the fontawesome extended syntax
     fontawesome = true
     # whether to show link to Raw Markdown content of the content
-    linkToMarkdown = true
+    linkToMarkdown = false
     #  whether to show the full text content in RSS
     rssFullText = false
     #  Table of the contents config
@@ -360,7 +351,7 @@ theme = "LoveIt"
       auto = true
     #  KaTeX mathematical formulas
     [params.page.math]
-      enable = true
+      enable = false
       # default block delimiter is $$ ... $$ and \\[ ... \\]
       blockLeftDelimiter = ""
       blockRightDelimiter = ""
@@ -370,7 +361,7 @@ theme = "LoveIt"
       # KaTeX extension copy_tex
       copyTex = true
       # KaTeX extension mhchem
-      mhchem = true
+      mhchem = false
     #  Code config
     [params.page.code]
       # whether to show the copy button of the code block
@@ -427,7 +418,7 @@ theme = "LoveIt"
       Mix = false
     #  Comment config
     [params.page.comment]
-      enable = true
+      enable = false
       # Disqus comment config
       [params.page.comment.disqus]
         #
@@ -555,7 +546,7 @@ theme = "LoveIt"
 
   #  Cookie consent config
   [params.cookieconsent]
-    enable = true
+    enable = false
     # text strings used for Cookie consent banner
     [params.cookieconsent.content]
       message = ""
