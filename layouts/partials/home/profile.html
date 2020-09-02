@@ -1,6 +1,10 @@
 {{- $profile := .Site.Params.home.profile -}}
 
 <div class="home-profile">
+
+    <script async src="/js/p5.min.js" type="text/javascript"></script>
+    <script async src="/js/mysketch.min.js" type="text/javascript"></script>
+
     {{- $avatar := $profile.avatarURL -}}
     {{- with $profile.gravatarEmail -}}
         {{- $avatar = md5 . | printf "https://www.gravatar.com/avatar/%v?s=240&d=mp" -}}
@@ -93,9 +97,5 @@
             {{- . | safeHTML -}}
         </h3>
     {{- end -}}
-
-    <script async src="/js/p5.min.js" type="text/javascript"></script>
-    <!-- <script src="/js/p5.js" type="text/javascript"></script> -->
-    <script async src="/js/mysketch.min.js" type="text/javascript"></script>
 
 </div>
