@@ -1,9 +1,11 @@
 {{- $profile := .Site.Params.home.profile -}}
 
-<div class="home-profile">
+<div id="tsparticles"></div>
 
-    <script async src="/js/p5.min.js" type="text/javascript"></script>
-    <script async src="/js/mysketch.min.js" type="text/javascript"></script>
+<script src="/js/tsparticles.min.js"></script>
+<script src="/js/app.js"></script>
+
+<div class="home-profile">
 
     {{- $avatar := $profile.avatarURL -}}
     {{- with $profile.gravatarEmail -}}

@@ -5,6 +5,7 @@ defaultContentLanguage = "en"
 languageCode = "en"
 title = "Stefano Mangini"
 
+enableEmoji=true
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
 
@@ -121,7 +122,7 @@ theme = "LoveIt"
   # site keywords
   keywords = ["Quantum Computing", "Quantum", "Machine Learning", "Quantum Machine Learning", "Quantum Information"]
   # site default theme ("light", "dark", "auto")
-  defaultTheme = "light"
+  defaultTheme = "auto"
   # public git repo url only then enableGitInfo is true
   gitRepo = ""
   #  which hash function used for SRI, when empty, no SRI is used
@@ -234,11 +235,11 @@ theme = "LoveIt"
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/images/avatar.png"
+      avatarURL = "/images/avatar4.png"
       #  title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page
-      subtitle = "404: nice quote still not found"
+      subtitle = "Hey there! Welcome to my website :D"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
@@ -453,7 +454,7 @@ theme = "LoveIt"
         # located in "themes/LoveIt/assets/data/emoji/" directory
         # you can store your own data files in the same path under your project:
         # "assets/data/emoji/"
-        emoji = ""
+        emoji = "themes/LoveIt/assets/data/emoji/google.yml"
       # Facebook comment config
       [params.page.comment.facebook]
         enable = false
