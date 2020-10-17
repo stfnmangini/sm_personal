@@ -112,13 +112,13 @@ tsParticles.load("tsparticles",
       }
     },
     "links": {
-      "blink": false,
+      "blink": true,
       "color": {
         "value": "#87CEEB"
       },
-      "consent": false,
-      "distance": 150,
-      "enable": false,
+      "consent": true,
+      "distance": 60,
+      "enable": true,
       "opacity": 0.4,
       "shadow": {
         "blur": 5,
