@@ -11,7 +11,7 @@ resources:
 - name: "featured-image"
   src: "featured-image.jpeg"
 
-tags: ["Sostenibilità, Divulgazione, Vegan, Vegetariano, Gas serra"]
+tags: ["Sostenibilità, Divulgazione, Vegan, Vegetariano, Gas serra, Cambiamenti Climatici"]
 categories: ["Sostenibilità"]
 
 lightgallery: true

@@ -19,7 +19,7 @@ In genere, sono molto interessato ad argomenti che si trovano al confine fra Qua
 
 ## Brevissima Biografia
 
-Sono nato in Puglia, una stupenda regione del Sud Italia. Subito dopo le scuole superiori, mi sono spostato a Trieste dove ho conseguito la laurea Triennale in Fisica e la Laurea Magistrale in Fisica Teorica, entrambe a pieni voti (110L). Al momento mi trovo a Pavia, dove ho appena iniziato il Dottorato su tematiche di *Quantum Computing*
+Sono nato in Puglia, una stupenda regione del Sud Italia. Subito dopo le scuole superiori, mi sono spostato a Trieste dove ho conseguito la laurea Triennale in Fisica e la Laurea Magistrale in Fisica Teorica, entrambe a pieni voti (110L). Al momento mi trovo a Pavia, dove ho appena iniziato il Dottorato su tematiche di *Quantum Computing*.
 
 ## Carriera Accademica  
 

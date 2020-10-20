@@ -235,11 +235,11 @@ theme = "LoveIt"
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/images/avatar4.png"
+      avatarURL = "/images/stefi4_low.png"
       #  title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page
-      subtitle = "Hey there! Welcome to my website :D"
+      subtitle = ">>> Quantum stuff happening ... "
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
@@ -264,12 +264,12 @@ theme = "LoveIt"
     Researchgate = "Stefano_Mangini"
     #Instagram = "xxxx"
     #Facebook = "xxxx"
-    Telegram = "Alberocheco"
+    #Telegram = "Alberocheco"
     Medium = ""
     Gitlab = ""
     Youtubelegacy = ""
     Youtubecustom = ""
-    Youtubechannel = "UCHksuDdGx5xJsKyV8COijFg"
+    #Youtubechannel = "UCHksuDdGx5xJsKyV8COijFg"
     Tumblr = ""
     Quora = ""
     Keybase = ""
@@ -508,7 +508,7 @@ theme = "LoveIt"
   #  TypeIt config
   [params.typeit]
     # typing speed between each step (measured in milliseconds)
-    speed = 100
+    speed = 120
     # blinking speed of the cursor (measured in milliseconds)
     cursorSpeed = 1000
     # character used for the cursor (HTML format is supported)
