@@ -237,9 +237,9 @@ theme = "LoveIt"
       # URL of avatar shown in home page
       avatarURL = "/images/stefi4_low.png"
       #  title shown in home page (HTML format is supported)
-      title = ""
+      title = "Quantum."
       # subtitle shown in home page
-      subtitle = ">>> Quantum stuff happening ... "
+      subtitle = "<i> Roses are red, violets are blue; <br> a qubit is up, but it's also down too</i>"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
@@ -508,7 +508,7 @@ theme = "LoveIt"
   #  TypeIt config
   [params.typeit]
     # typing speed between each step (measured in milliseconds)
-    speed = 120
+    speed = 100
     # blinking speed of the cursor (measured in milliseconds)
     cursorSpeed = 1000
     # character used for the cursor (HTML format is supported)
