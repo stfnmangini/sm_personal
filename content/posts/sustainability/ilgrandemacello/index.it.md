@@ -1,17 +1,15 @@
 ---
 weight: 1
 title: "Il Grande Macello"
-#date: 2020-08-01T21:57:40+08:00
 date: 2020-10-03T16:45:40+08:00
 draft: false
 author: "Stefano"
-#authorLink: "https://dillonzq.com"
 description: "Il grande macello"
 resources:
 - name: "featured-image"
   src: "featured-image.jpeg"
 
-tags: ["Sostenibilità, Divulgazione, Vegan, Vegetariano, Gas serra, Cambiamenti Climatici"]
+tags: ["Sostenibilità", "Divulgazione", "Vegan", "Vegetariano", "Gas serra", "Cambiamenti Climatici"]
 categories: ["Sostenibilità"]
 
 lightgallery: true
@@ -41,7 +39,7 @@ Ecco alcune curiosità, trattate e approfondite nell’articolo:
 - 🍔   L’acqua per produrre un singolo hamburger è equivalente all’acqua utilizzata da una persona in due mesi di docce;  
 
 Con il collasso climatico ormai alle porte, dobbiamo prenderci la responsabilità dei danni incommensurabili che stiamo arrecando al nostro pianeta, spero che questo articolo possa aiutare a mettere la cose in prospettiva e spingere ad uno stile di vita più responsabile.  
-Insomma, sperando di aver almeno un poco stuzzicato la vostra curiosità, vi lascio il link all’articolo (basta cliccare su “scarica il PDF”). L’obiettivo è quello di informare e divulgare, quindi se vi è piaciuto, non esitate a condividerlo con chi vi pare.  
+L’obiettivo è quello di informare e divulgare, quindi se vi è piaciuto, non esitate a condividerlo con chi vi pare.  
 
 Se siete arrivati fin qui, allora spero vogliate anche leggere l'articolo, che potete trovare qui: [download](/documents/ilgrandemacello.pdf)  
 Buona lettura! :wink:
