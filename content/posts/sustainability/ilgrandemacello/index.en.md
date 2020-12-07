@@ -1,17 +1,15 @@
 ---
 weight: 1
 title: "Food Choices and Sustainability"
-#date: 2020-08-01T21:57:40+08:00
 date: 2020-10-03T16:45:40+08:00
 draft: false
 author: "Stefano"
-#authorLink: "https://dillonzq.com"
 description: "Il grande macello"
 resources:
 - name: "featured-image"
   src: "featured-image.jpeg"
 
-tags: ["Vegan, Vegetarian, Greenhouse gas, Sustainability, Climate Change"]
+tags: ["Food choices", "Plant based", "Vegan", "Vegetarian", "Greenhouse gas", "Climate Change"]
 categories: ["Sustainability"]
 
 lightgallery: true
@@ -20,7 +18,7 @@ toc: false
 
 > Download article _"Il Grande Macello"_, by Stefano Mangini &nbsp; &nbsp;  [:(fas fa-file-download):](/documents/ilgrandemacello.pdf)
 
-# Food Choices and sustainability
+# Food Choices and Sustainability
 
 Few months ago, I decided to wrote a divulgation article on food choices and sustainability, explaining those reasons which motivated me to approach a full plant based diet. Unfortunately, the article was targeted to an Italian audience and it is then written in Italian, because you can already find great resources and information on the topic in english. For example, here are some resources dealing with different aspects of livestock and dairy farming:
 - Greenpeace vision: [Less is More. Reducing meat and dairy for a healthier life and planet](https://storage.googleapis.com/planet4-international-stateless/2018/03/698c4c4a-summary_greenpeace-livestock-vision-towards-2050.pdf), by Greenpeace.

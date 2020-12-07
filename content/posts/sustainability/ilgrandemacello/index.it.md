@@ -9,7 +9,7 @@ resources:
 - name: "featured-image"
   src: "featured-image.jpeg"
 
-tags: ["Sostenibilità", "Divulgazione", "Vegan", "Vegetariano", "Gas serra", "Cambiamenti Climatici"]
+tags: ["Nutrizione", "Diete a base vegetale", "Cambiamenti Climatici"]
 categories: ["Sostenibilità"]
 
 lightgallery: true
