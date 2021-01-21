@@ -11,7 +11,9 @@ math:
 
 > On this page you can find more detail about my work, including my interests, publications, conferences I attended, and talks I gave.
 >
-> Here is my [University Webpage](https://qubit.it/people/stefano-mangini/).
+> Here is my [University Webpage](https://qubit.it/people/stefano-mangini/).  
+
+> **Curriculum Vitae CV**:  [:(fas fa-file-download):](/documents/cv.pdf)
 
 My research is focused on Quantum Computation and Information, and I'm interested also in topics coming from Theoretical Computer Science. I’m half a Theoretician and Programmer (I love spending time on my computer), using both approaches when dealing with a problem.
 

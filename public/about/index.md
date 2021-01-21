@@ -3,9 +3,9 @@
 
 > On this page you can learn more about me, my career and my hobbies.
 >
-> You can find more information on my Curriculum Vitae CV -> [:(fas fa-file-download):](/documents/cv.pdf)
+> :exclamation:You can find more information on my **Curriculum Vitae CV** [:(fas fa-file-download):](/documents/cv.pdf)
 >
-> If you have any question, or just want to get in touch with me, you can send me an email -> [:(fas fa-envelope):](mailto:mangini.stfn@gmail.com)
+> If you have any question, or just want to get in touch with me, you can send me an email [:(fas fa-envelope):](mailto:mangini.stfn@gmail.com)
 
 <p align="center">
   <img width="600" height="200" src="/images/profile2.png">
@@ -32,9 +32,8 @@ I was born in Puglia, a wonderful region (go check it out) in the southern part 
 ## Other  
 Apart for academic stuff, I am a slow travel lover and mountain enthusiast. I love hiking and rock climbing, reading books and playing guitar, making videos and trying to help people in living in a more environmentally sustainable way.  
 
-You can find more in the _Personal_ page.  
 
 
 
-{{< figure src="/images/climbing.jpeg" title="Me belaying during a climbing day." width=500 >}}
+{{< figure src="/images/iceland-min.jpg" title="Iceland, 2018." width=600 >}}
 

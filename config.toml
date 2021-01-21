@@ -54,14 +54,14 @@ theme = "LoveIt"
         url = "/research/"
         title = ""
         weight = 2
-      [[languages.en.menu.main]]
-        identifier = "personal"
-        pre = ""
-        post = ""
-        name = "Personal"
-        url = "/personal/"
-        title = ""
-        weight = 3
+      #[[languages.en.menu.main]]
+      #  identifier = "personal"
+      #  pre = ""
+      #  post = ""
+      #  name = "Personal"
+      #  url = "/personal/"
+      #  title = ""
+      #  weight = 3
   [languages.it]
     weight = 2
     # language code
@@ -105,14 +105,14 @@ theme = "LoveIt"
         url = "/research/"
         title = ""
         weight = 2
-      [[languages.it.menu.main]]
-        identifier = "personal"
-        pre = ""
-        post = ""
-        name = "Personale"
-        url = "/personal/"
-        title = ""
-        weight = 3
+      #[[languages.it.menu.main]]
+      #  identifier = "personal"
+      #  pre = ""
+      #  post = ""
+      #  name = "Personale"
+      #  url = "/personal/"
+      #  title = ""
+      #  weight = 3
 
 [params]
   #  LoveIt theme version

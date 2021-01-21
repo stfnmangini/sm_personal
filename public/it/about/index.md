@@ -3,9 +3,9 @@
 
 > In questa pagina puoi trovare informazioni su di me, sulla mia carriera accademica e sui miei hobby.
 >
-> Puoi trovare informazioni più dettagliate nel mio Curriculum CV -> [:(fas fa-file-download):](/documents/cv.pdf)
+> :exclamation:Puoi trovare informazioni più dettagliate nel mio **Curriculum CV** [:(fas fa-file-download):](/documents/cv.pdf)
 >
-> Se hai domande o semplicemente vuoi metterti in contatto con me, puoi mandarmi una email -> [:(fas fa-envelope):](mailto:mangini.stfn@gmail.com)
+> Se hai domande o semplicemente vuoi metterti in contatto con me, puoi mandarmi una email [:(fas fa-envelope):](mailto:mangini.stfn@gmail.com)
 
 <p align="center">
   <img width="600" height="200" src="/images/profile2.png">
@@ -28,10 +28,8 @@ Sono nato in Puglia, una stupenda regione del Sud Italia. Subito dopo le scuole 
 * Laurea Triennale in _Fisica_, Università di Trieste, 2014-2017  
 
 ## Altro  
-Oltre alla vita accademia, sono un amante del turismo lento e della montagna. Mi piace fare camminate/trekking e fare arrampicata, leggere libri e suonare la chitarra, fare video e provare ad aiutare le persona e vivere in maniera più sostenibile per l'ambiente.
 
+Oltre alla vita accademia, sono un amante del turismo lento e della montagna. Mi piace fare camminate/trekking e fare arrampicata, leggere libri e suonare la chitarra, fare video e provare ad aiutare le persona e vivere in maniera più sostenibile per l'ambiente.  
 
-Puoi trovare più informazioni nella pagina _Personale_.  
-
-{{< figure src="/images/climbing.jpeg" title="Io mentre faccio sicura durante un'uscita ad arrampicare." width=500 >}}
+{{< figure src="/images/iceland-min.jpg" title="Islanda, 2018." width=600 >}}
 
