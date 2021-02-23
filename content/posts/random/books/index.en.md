@@ -21,18 +21,20 @@ toc: false
 
 Here's my virtual bookshelf: a list of books I've been reading lately and books I wish to read in the future! This is mostly for personal records, but maybe you can get inspired by some of the books in the list! Also, I'm always open to new suggestions, so contact me if you have one!
 
-**Now reading** :book: : The Emperor's new mind, by *Roger Penrose*.
+**Now reading** :book: : Old man who read love stories, by *Luis Sepulveda*.
 
 ### To read
 
 - Thinking, Fast and Slow, by *Daniel Kahneman*.
 - Phi, by *Giulio Tononi*.
 - Other Minds: The Octopus and the Evolution of Intelligent Life, by *Peter Godfrey-Smith*.
--
 
 ### Read
 On top the most recent ones
 
+- Animal Farm, by *George Orwell*
+- Eating Animals, by *Jonathan Safran Foer*
+- The Emperor's new mind, by *Roger Penrose*
 - Sapiens: A Brief History of Humankind, by *Yuval Noah Harari*. :book: **Super suggested** :book:
 - Humankind: A Hopeful History, by *Rutger Bregman*. :book: **Super suggested** :book:
 - Utopia for Realists, by *Rutger Bgregman*. :book: **Super suggested** :book:
