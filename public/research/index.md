@@ -1,10 +1,10 @@
 # Research
 
 
-> On this page you can find more detail about my work, including my interests, publications, conferences I attended, and talks I gave.
+> On this page you can find more detail about my work, including my interests, publications, conferences, and talks.
+> Also, you may be interested in my University Webpage, [here](https://qubit.it/people/stefano-mangini/).  
+>  
 >
-> Here is my [University Webpage](https://qubit.it/people/stefano-mangini/).  
-
 > **Curriculum Vitae CV**:  [:(fas fa-file-download):](/documents/cv.pdf)
 
 My research is focused on Quantum Computation and Information, and I'm interested also in topics coming from Theoretical Computer Science. I’m half a Theoretician and Programmer (I love spending time on my computer), using both approaches when dealing with a problem.
@@ -16,8 +16,10 @@ At the moment, for my PhD I am investigating and studying one of the most intere
 ---
 
 # Publications
-> For an always up-to-date list, check **Google Scholar** [:(fas fa-graduation-cap):](https://scholar.google.com/citations?user=u0e6lk0AAAAJ&hl) and **Orcid** [:(fab fa-orcid):](https://orcid.org/0000-0002-0056-0660)
+For an always up-to-date list, check **Google Scholar** [:(fas fa-graduation-cap):](https://scholar.google.com/citations?user=u0e6lk0AAAAJ&hl) and **Orcid** [:(fab fa-orcid):](https://orcid.org/0000-0002-0056-0660)
 
+* F. Tacchino, S. Mangini, P. Kl. Barkoutsos, C. Macchiavello, D. Gerace, I. Tavernelli, D. Bajoni (2021). Variational learning for artificial neural networks, [arXiv:2103.02498](https://arxiv.org/abs/2103.02498).
+* S. Mangini, F. Tacchino, D. Gerace, D. Bajoni, C. Macchiavello (2021). Quantum computing models for artificial neural networks, [arXiv:2102.03879](https://arxiv.org/abs/2102.03879).
 * S. Mangini, F. Tacchino, C. Macchiavello, D. Gerace, D. Bajoni (2020). [Quantum computing model of an artificial neuron with continuously valued input data](https://doi.org/10.1088/2632-2153/abaf98). _Machine Learning: Science and Technology **1**(4)_: 045008.
 * F. Benatti, S. Mancini, S. Mangini (2020). [Continuous variable quantum perceptron](https://doi.org/10.1142/S0219749919410090). _International Journal of Quantum Information **17**(08)_: 1941009.
 

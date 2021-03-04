@@ -19,7 +19,7 @@ In genere, sono molto interessato ad argomenti che si trovano al confine fra Qua
 
 ## Brevissima Biografia
 
-Sono nato in Puglia, una stupenda regione del Sud Italia. Subito dopo le scuole superiori, mi sono spostato a Trieste dove ho conseguito la laurea Triennale in Fisica e la Laurea Magistrale in Fisica Teorica, entrambe a pieni voti (110L). Al momento mi trovo a Pavia, dove ho appena iniziato il Dottorato su tematiche di *Quantum Computing*.
+Sono nato in Puglia, e subito dopo le scuole superiori mi sono spostato a Trieste dove ho conseguito la laurea Triennale in Fisica e la Laurea Magistrale in Fisica Teorica, entrambe a pieni voti (110L). Al momento mi trovo a Pavia, dove ho intrapreso il percorso di Dottorato su tematiche di *Quantum Computing* e *Quantum Machine Learning*.
 
 ## Carriera Accademica  
 
@@ -31,5 +31,7 @@ Sono nato in Puglia, una stupenda regione del Sud Italia. Subito dopo le scuole 
 
 Oltre alla vita accademia, sono un amante del turismo lento e della montagna. Mi piace fare camminate/trekking e fare arrampicata, leggere libri e suonare la chitarra, fare video e provare ad aiutare le persona e vivere in maniera più sostenibile per l'ambiente.  
 
-{{< figure src="/images/iceland-min.jpg" title="Islanda, 2018." width=600 >}}
+<p align="center">
+  <img width="800" height="525" src="/images/iceland-min.jpg">
+</p>  
 

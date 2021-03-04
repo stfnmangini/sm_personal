@@ -21,7 +21,7 @@ toc: false
 
 Here's my virtual bookshelf: a list of books I've been reading lately and books I wish to read in the future! This is mostly for personal records, but maybe you can get inspired by some of the books in the list! Also, I'm always open to new suggestions, so contact me if you have one!
 
-**Now reading** :book: : Old man who read love stories, by *Luis Sepulveda*.
+**Now reading** :book: : Il mondo sottosopra, by *Massimo Polidoro*.
 
 ### To read
 
@@ -32,6 +32,7 @@ Here's my virtual bookshelf: a list of books I've been reading lately and books 
 ### Read
 On top the most recent ones
 
+- Old man who read love stories, by *Luis Sepulveda*.
 - Animal Farm, by *George Orwell*
 - Eating Animals, by *Jonathan Safran Foer*
 - The Emperor's new mind, by *Roger Penrose*
