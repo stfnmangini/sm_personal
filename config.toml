@@ -235,7 +235,7 @@ theme = "LoveIt"
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/images/stefi4_low.png"
+      avatarURL = "/images/stefi4_low2.png"
       #  title shown in home page (HTML format is supported)
       title = "Hey there 👋"
       # subtitle shown in home page
