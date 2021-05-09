@@ -21,7 +21,7 @@ toc: false
 
 Here's my virtual bookshelf: a list of books I've been reading lately and books I wish to read in the future! This is mostly for personal records, but maybe you can get inspired by some of the books in the list! Also, I'm always open to new suggestions, so contact me if you have one!
 
-**Now reading** :book: : Il mondo sottosopra, by *Massimo Polidoro*.
+**Now reading** :book: : Homo Deus, by *Yuval Noah Harari*.
 
 ### To read
 
@@ -30,8 +30,9 @@ Here's my virtual bookshelf: a list of books I've been reading lately and books 
 - Other Minds: The Octopus and the Evolution of Intelligent Life, by *Peter Godfrey-Smith*.
 
 ### Read
-On top the most recent ones
+On top the most recent ones  
 
+- Il mondo sottosopra, by *Massimo Polidoro*.
 - Old man who read love stories, by *Luis Sepulveda*.
 - Animal Farm, by *George Orwell*
 - Eating Animals, by *Jonathan Safran Foer*

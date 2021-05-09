@@ -1,5 +1,8 @@
 # Ricerca
 
 
-_Questa pagina è disponibile solo in inglese._
+{{< admonition warning "Cambia lingua" >}}
+_Questa pagina è disponibile solo in Inglese._
+{{< /admonition >}}
+
 

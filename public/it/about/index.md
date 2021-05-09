@@ -27,6 +27,10 @@ Sono nato in Puglia, e subito dopo le scuole superiori mi sono spostato a Triest
 * Laurea Magistrale in _Fisica Teorica_, Università di Trieste, 2017-2019
 * Laurea Triennale in _Fisica_, Università di Trieste, 2014-2017  
 
+## Teaching  
+
+Lista degli insegnamenti in cui sono stato coinvolto: [Corsi](/teaching/)
+
 ## Altro  
 
 Oltre alla vita accademia, sono un amante del turismo lento e della montagna. Mi piace fare camminate/trekking e fare arrampicata, leggere libri e suonare la chitarra, fare video e provare ad aiutare le persona e vivere in maniera più sostenibile per l'ambiente.  
