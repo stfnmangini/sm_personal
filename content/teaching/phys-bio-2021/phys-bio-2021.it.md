@@ -19,7 +19,7 @@ Qui potete trovare la lista degli esercizi proposti e le slides della lezione in
 
 ### Slides delle lezioni
 
-|Seminario |Slides lezione  | Lista Esercizi |
+|Seminario |Slides lezione  | Lista esercizi |
 ---        | --- | ---
 |Cinematica|[:(fas fa-file-download):](/documents/phys-bio-21/SeminarioCinematica.pdf)|[:(fas fa-file-download):](/documents/phys-bio-21/es_sem1.pdf)|
 |Fluidodinamica|[:(fas fa-file-download):](/documents/phys-bio-21/SeminarioFluidodinamica.pdf)|[:(fas fa-file-download):](/documents/phys-bio-21/es_sem2.pdf)|
