@@ -17,5 +17,5 @@ Qui potete trovare la lista degli esercizi proposti e le slides della lezione in
 |Fluidodinamica|[:(fas fa-file-download):](/documents/phys-bio-21/SeminarioFluidodinamica.pdf)|[:(fas fa-file-download):](/documents/phys-bio-21/es_sem2.pdf)|
 |Termodinamica|[:(fas fa-file-download):](/documents/phys-bio-21/SeminarioTermodinamica.pdf)|[:(fas fa-file-download):](/documents/phys-bio-21/es_sem3.pdf)|
 |Ottica| [:(fas fa-file-download):](/documents/phys-bio-21/SeminarioOttica.pdf) | [:(fas fa-file-download):](/documents/phys-bio-21/es_sem4.pdf) |
-|Elettromagnetismo| _in arrivo_ | _in arrivo_ |
+|Elettromagnetismo| [:(fas fa-file-download):](/documents/phys-bio-21/SeminarioElettromagnetismo.pdf) | [:(fas fa-file-download):](/documents/phys-bio-21/es_sem5.pdf)  |
 
