@@ -2,7 +2,7 @@
 weight: 1
 title: "La mia libreria"
 date: 2021-01-20T00:00:00+00:00
-draft: false
+draft: true
 author: "Stefano"
 #authorLink: "https://dillonzq.com"
 description: "Lista dei libri che ho letto e voglio leggere"
@@ -23,15 +23,10 @@ Questa è la mia libreria virtuale: puoi trovare la lista dei libri che ho letto
 
 **Leggendo ora** :book:: Homo Deus, di *Yuval Noah Harari*.
 
-### Da leggere
-
-- Pensiero, lento e veloce, di *Daniel Kahneman*
-- Phi, di *Giulio Tononi*
-- Altre menti, di *Peter Godfrey-Smith*
-
 ### Letti
 In cima quelli più recenti
 
+- Homo Deus, di *Yuval Noah Harari*
 - Il mondo sottosopra, di *Massimo Polidoro*.
 - Il vecchio che leggeva romanzi d'amore, di *Luis Sepulveda*.
 - La fattoria degli animali, di *George Orwell*

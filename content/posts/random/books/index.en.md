@@ -2,7 +2,7 @@
 weight: 1
 title: "My bookshelf"
 date: 2021-01-20T00:00:00+00:00
-draft: false
+draft: true
 author: "Stefano"
 #authorLink: "https://dillonzq.com"
 description: "List of books I've read and wish to read"
