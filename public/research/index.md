@@ -16,12 +16,21 @@ At the moment, for my PhD I am investigating and studying one of the most intere
 ---
 
 # Publications
-For an always up-to-date list, check **Google Scholar** [:(fas fa-graduation-cap):](https://scholar.google.com/citations?user=u0e6lk0AAAAJ&hl), **Orcid** [:(fab fa-orcid):](https://orcid.org/0000-0002-0056-0660), [**arXiv**](https://arxiv.org/search/quant-ph?searchtype=author&query=Mangini%2C+S).
+*Last updated: 21/05/22*. For an always up-to-date list, please check **Google Scholar** [:(fas fa-graduation-cap):](https://scholar.google.com/citations?user=u0e6lk0AAAAJ&hl), [**arXiv**](https://arxiv.org/search/quant-ph?searchtype=author&query=Mangini%2C+S), **Orcid** [:(fab fa-orcid):](https://orcid.org/0000-0002-0056-0660).
 
-* S. Mangini, F. Tacchino, D. Gerace, D. Bajoni, C. Macchiavello (2021). [Quantum computing models for artificial neural networks](https://iopscience.iop.org/article/10.1209/0295-5075/134/10002), *EPL (Europhysics Letters)* **134**(1), 10002.
-* F. Tacchino, S. Mangini, P. Kl. Barkoutsos, C. Macchiavello, D. Gerace, I. Tavernelli, D. Bajoni (2021). [Variational learning for artificial neural networks](https://ieeexplore.ieee.org/document/9364892),  *IEEE Transactions on Quantum Engineering*, vol. **2**, pp. 1-10.
-* S. Mangini, F. Tacchino, C. Macchiavello, D. Gerace, D. Bajoni (2020). [Quantum computing model of an artificial neuron with continuously valued input data](https://doi.org/10.1088/2632-2153/abaf98), _Machine Learning: Science and Technology_ **1**(4), 045008.
-* F. Benatti, S. Mancini, S. Mangini (2020). [Continuous variable quantum perceptron](https://doi.org/10.1142/S0219749919410090), _International Journal of Quantum Information_ **17**(08), 1941009.
+* **S. Mangini**, A. Marruzzo, M. Piantanida, D. Gerace, D. Bajoni, C. Macchiavello (2022). [Quantum neural network autoencoder and classifier applied to an industrial case study](https://arxiv.org/abs/2205.04127), arXiv preprint arXiv:2205.04127.  
+
+* R. Di Sipio, J. H. Huang, S. Y. C. Chen, **S. Mangini** and M. Worring (2022). [The Dawn of Quantum Natural Language Processing](https://ieeexplore.ieee.org/abstract/document/9747675), ICASSP 2022 - IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022, pp. 8612-8616.
+
+* **S. Mangini**, L. Maccone, C. Macchiavello (2021). [Qubit noise deconvolution](https://arxiv.org/abs/2112.03043), arXiv preprint arXiv:2112.03043.
+
+* **S. Mangini**, F. Tacchino, D. Gerace, D. Bajoni, C. Macchiavello (2021). [Quantum computing models for artificial neural networks](https://iopscience.iop.org/article/10.1209/0295-5075/134/10002), *EPL (Europhysics Letters)* **134**(1), 10002.
+
+* F. Tacchino, **S. Mangini**, P. Kl. Barkoutsos, C. Macchiavello, D. Gerace, I. Tavernelli, D. Bajoni (2021). [Variational learning for artificial neural networks](https://ieeexplore.ieee.org/document/9364892),  *IEEE Transactions on Quantum Engineering*, vol. **2**, pp. 1-10.
+
+* **S. Mangini**, F. Tacchino, C. Macchiavello, D. Gerace, D. Bajoni (2020). [Quantum computing model of an artificial neuron with continuously valued input data](https://doi.org/10.1088/2632-2153/abaf98), _Machine Learning: Science and Technology_ **1**(4), 045008.
+
+* F. Benatti, S. Mancini, **S. Mangini** (2020). [Continuous variable quantum perceptron](https://doi.org/10.1142/S0219749919410090), _International Journal of Quantum Information_ **17**(08), 1941009.
 
 ---
 

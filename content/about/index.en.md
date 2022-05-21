@@ -19,6 +19,8 @@ math:
   <img width="600" height="200" src="/images/profile2.png">
 </p>  
 
+> :exclamation: **QML Intern @ CQC**: from April 2022 until August I will in London for a reseacrch internship in the Quantum Machine Learning team at [Quantinuum/Cambridge Quantum](https://cambridgequantum.com/). 
+
 # Hi, I'm Stefano :(fab fa-angellist):
 I am PhD student in Theoretical Physics at the University of Pavia (Italy) under the supervision of Prof. Chiara Macchiavello, in the **Qu**antum **I**nformation **T**heory   ([QUIT](https://www.qubit.it/)) group.
 
@@ -31,6 +33,7 @@ For more details, visit the _Research_ page!
 I was born in Puglia, a wonderful region (go check it out) in the southern part of Italy. After High School, I moved to Trieste to study Physics in the University of Triste, where I obtained my Bachelor degree in *Physics*, and my Master degree in *Theoretical Physics*, both with full marks. Right after (i.e. now), I moved to Pavia (near Milan) where I’m pursuing my PhD on *Quantum Computing*.   
 
 ## Career
+* _Quantum Machine Learning_ intern, Cambridge Quantum, Apr-Aug 2022
 * PhD student on _Quantum Computing_, University of Pavia (Italy), 2019-ongoing
 * MSc in _Theoretical Physics_, University of Trieste (Italy), 2017-2019
 * BSc in _Physics_, University of Trieste (Italy), 2014-2017  
@@ -39,9 +42,10 @@ I was born in Puglia, a wonderful region (go check it out) in the southern part 
 Here is a list of courses I've been involved to: [Classes](/teaching/)
 
 ## Other  
-Apart for academic stuff, I am a slow travel lover and mountain enthusiast. I love hiking and rock climbing, reading books and playing guitar, making videos and trying to help people in living in a more environmentally sustainable way.  
+Apart for academic stuff, I am a slow travel lover and mountain enthusiast. I love hiking and rock climbing, reading books and playing guitar, cook (vegan 🌱) and discuss environmental and social sustainability.
 
+In case you asked, that's me with a weird smile in front of a glacier in Iceland. 
 
-
-
-{{< figure src="/images/iceland-min.jpg" title="Iceland, 2018." width=600 >}}
+<p align="center">
+  <img width="800" height="525" src="/images/iceland-min.jpg">
+</p> 
