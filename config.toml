@@ -263,7 +263,7 @@ theme = "LoveIt"
     Twitter = "stfn_mangini"
     GitHub = "stfnmangini"
     Googlescholar = "user=u0e6lk0AAAAJ&hl"
-    Researchgate = "Stefano_Mangini"
+    Researchgate = "" #Stefano_Mangini"
     #Instagram = "xxxx"
     #Facebook = "xxxx"
     #Telegram = "Alberocheco"
@@ -322,7 +322,7 @@ theme = "LoveIt"
     Matrix = ""
     Bilibili = ""
     Email = "mangini.stfn@gmail.com"
-    RSS = false #
+    RSS = false#
 
   #  Page config
   [params.page]
