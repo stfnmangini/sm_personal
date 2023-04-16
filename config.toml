@@ -240,14 +240,14 @@ theme = "LoveIt"
       title = "Hey there 👋"
       # subtitle shown in home page
       #subtitle = "<i> Roses are red, violets are blue; <br> a qubit is up, but it's also down too</i>"
-      subtitle = "<i>PhD student in Quantum Computing and Quantum Machine Learning <br> @ University of Pavia, Italy</i>"
+      subtitle = "<i>Quantum Computing Researcher @ Algorithmiq <br> PostDoc @ University of Helsinki</i>"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
       social = true
       #  disclaimer (HTML format is supported)
       #disclaimer = "Theoretical Physics | Quantum Computing | Machine Learning"
-      disclaimer = "<i> ''With regard to the climate crisis, yes, it’s time to panic.''</i> <br> cit. Raymond Pierrehumbert <br> (lead author on the IPCC Third Assessment Report)"
+      disclaimer = "<i> «With regard to the climate crisis, yes, it’s time to panic.»</i> <br> cit. Raymond Pierrehumbert <br> (lead author on the IPCC Third Assessment Report)"
     # Home page posts
     [params.home.posts]
       enable = false

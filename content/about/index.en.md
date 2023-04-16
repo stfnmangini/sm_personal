@@ -13,38 +13,43 @@ math:
 >
 > :exclamation:You can find more information on my **Curriculum Vitae CV** [:(fas fa-file-download):](/documents/cv.pdf)
 >
-> If you have any question, or just want to get in touch with me, you can send me an email [:(fas fa-envelope):](mailto:mangini.stfn@gmail.com)
+> If you have any question or just want to get in touch with me, shoot me an email [:(fas fa-envelope):](mailto:mangini.stfn@gmail.com) !
 
 <p align="center">
   <img width="600" height="200" src="/images/profile2.png">
 </p>  
 
-> :exclamation: **QML Intern @ CQC**: from April 2022 until August I will in London for a reseacrch internship in the Quantum Machine Learning team at [Quantinuum/Cambridge Quantum](https://cambridgequantum.com/). 
-
 # Hi, I'm Stefano :(fab fa-angellist):
-I am PhD student in Theoretical Physics at the University of Pavia (Italy) under the supervision of Prof. Chiara Macchiavello, in the **Qu**antum **I**nformation **T**heory   ([QUIT](https://www.qubit.it/)) group.
+I am researcher on Quantum Computing at [Algorithmiq](https://algorithmiq.fi/), and a PostDoctoral researcher at the University of Helsinki. 
 
-My PhD research project is focused on **Quantum Computing**, and in particular to one of its most prominent application, **Quantum Machine Learning**.
-Broadly speaking, I'm very interested in topics which lies in the intersection between Quantum Computing and Theoretical Computer Science.  
+Previosuly I was a Ph.D. student in Theoretical Physics at the University of Pavia (Italy) under the supervision of Prof. Chiara Macchiavello, in the **Qu**antum **I**nformation **T**heory ([QUIT](https://www.qubit.it/)) group. My research during the Ph.D. focused on *Quantum Computing*, and in particular on *Quantum Machine Learning* and *Variational Quantum Algorithms*.
 
-For more details, visit the _Research_ page!
+Broadly speaking, I'm very interested in topics which lies in the intersection between Quantum Computing and Computer Science. For more details, visit the _Research_ page!
 
-## Short Bio  
-I was born in Puglia, a wonderful region (go check it out) in the southern part of Italy. After High School, I moved to Trieste to study Physics in the University of Triste, where I obtained my Bachelor degree in *Physics*, and my Master degree in *Theoretical Physics*, both with full marks. Right after (i.e. now), I moved to Pavia (near Milan) where I’m pursuing my PhD on *Quantum Computing*.   
+## Short (academic) bio  
+I was born in Puglia, a wonderful region (go check it out) in the southern part of Italy. After High School, I moved to Trieste (norhtern Italy) to study Physics in the University of Triste, where I obtained my Bachelor degree in *Physics*, and my Master degree in *Theoretical Physics*, both with full marks. 
+
+Then I moved to Pavia (near Milan) to pursue a Ph.D. on *Quantum Computing*, which finished at the start of 2023 (actually, I'm still waiting to defend the thesis). 
+
+At the moment I live in Helsinki, where I contiue researching on quantum computing at Algorithmiq and at the University of Helsinki.
 
 ## Career
-* _Quantum Machine Learning_ intern, Cambridge Quantum, Apr-Aug 2022
-* PhD student on _Quantum Computing_, University of Pavia (Italy), 2019-ongoing
-* MSc in _Theoretical Physics_, University of Trieste (Italy), 2017-2019
-* BSc in _Physics_, University of Trieste (Italy), 2014-2017  
+* Research scientist @ [Algorithmiq](https://algorithmiq.fi/), Helsinki :finland: [Apr. 2023 - ongoing]
+* PostDoctoral researcer @ University of Helsinki :finland: [Apr. 2023 - ongoing]
+* _Quantum Machine Learning_ intern @ [Quantinuum](https://www.quantinuum.com/), London :uk: [April - August 2022]
+* Ph.D. on _Quantum Computing_ @ University of Pavia :it: [2019-2023]
+* MSc in _Theoretical Physics_ @ University of Trieste :it: [2017-2019]
+* BSc in _Physics_ @ University of Trieste :it: [2014-2017]  
 
 ## Teaching 
 Here is a list of courses I've been involved to: [Classes](/teaching/)
 
 ## Other  
-Apart for academic stuff, I am a slow travel lover and mountain enthusiast. I love hiking and rock climbing, reading books and playing guitar, cook (vegan 🌱) and discuss environmental and social sustainability.
+Moving to more serious stuff, apart for work/academy, I am a slow travel lover 🥾 and mountain enthusiast ⛰️. I love hiking, rock climbing, reading, playing guitar, and cooking (vegan 🌱), and I'm very interested in environmental and social sustainability (full on Universal Basic Income!).
 
-In case you asked, that's me with a weird smile in front of a glacier in Iceland. 
+Also, together with some friend we created [BeQuantum](https://www.bequantum.it/), the italian community on quantum technolgies, go check it out! 
+
+In case you asked, that's me –kind of 5 years ago as of 2023– with a weird smile in front of a glacier in Iceland. 
 
 <p align="center">
   <img width="800" height="525" src="/images/iceland-min.jpg">
